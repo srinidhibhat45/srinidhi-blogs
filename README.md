@@ -1,1 +1,1 @@
-# srinidhii-blogs
+Example site modified from https://github.com/gohugoio/hugoBasicExample
