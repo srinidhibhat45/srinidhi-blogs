@@ -23,3 +23,120 @@ menu:
 <a href="https://srinidhibhat.netlify.app/"><img src="https://i.ibb.co/1Rv08VB/Poly.png" alt="Portfolio" title="Portfolio"></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:srinidhibhat45@gmail.com"><img src="https://i.ibb.co/rtnxr4M/Gmail.png" alt="Email" title="srinidhibhat45@gmail.com"></a> &nbsp;&nbsp;&nbsp;
 
+<hr>
+<form data-netlify="true">
+  <div class="wrapper">
+    <div class="title">
+      <h1>Say Hello!</h1>
+    </div>
+    <div class="contact-form">
+      <div class="input-fields">
+        <input type="text" class="input" placeholder="Name">
+        <input type="text" class="input" placeholder="Email Address">
+        <input type="text" class="input" placeholder="Phone">
+        <input type="text" class="input" placeholder="Subject">
+      </div>
+      <div class="msg">
+        <textarea placeholder="Message"></textarea>
+        <div class="btn">Send</div>
+      </div>
+    </div>
+  </div>
+</form>
+
+<style>
+   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .wrapper .title h1{
+    color: #898989;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+
+  .contact-form{
+    display: flex;
+  }
+  
+  .input-fields{
+    font-family: Montserrat;
+    display: flex;
+    flex-direction: column;
+    margin-right: 4%;
+  }
+  
+  .input-fields,
+  .msg{
+    font-family: montserrat;
+    width: 48%;
+  }
+  
+  .input-fields .input,
+  .msg textarea{
+    margin: 10px 0;
+    background: transparent;
+    border: 0px;
+    border-bottom: 2px solid #898989;
+    padding: 20px;
+    color: #898989;
+    width: 100%;
+  }
+
+  .msg textarea{
+    height: 305px;
+  }
+
+  ::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: #727272;
+  }
+  ::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #727272;
+  }
+  :-ms-input-placeholder {
+    /* IE 10+ */
+    color: #727272;
+  }
+  
+  .btn {
+      background: #6e6767;
+      text-align: center;
+      padding: 5px;
+      border-radius: 50px;
+      color: #fff;
+      cursor: pointer;
+      text-transform: uppercase;
+      
+  }
+
+  .btn:hover{
+    background: #4e4949;
+      text-align: center;
+      padding: 5px;
+      border-radius: 50px;
+      color: #fff;
+      cursor: pointer;
+      text-transform: uppercase;
+  }
+
+  @media screen and (max-width: 600px){
+    .contact-form{
+      flex-direction: column;
+    }
+    .msg textarea{
+      height: 50px;
+    }
+    .input-fields,
+    .msg{
+      width: 100%;
+    }
+
+</style>
