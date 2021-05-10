@@ -24,7 +24,7 @@ menu:
 <a href="mailto:srinidhibhat45@gmail.com"><img src="https://i.ibb.co/rtnxr4M/Gmail.png" alt="Email" title="srinidhibhat45@gmail.com"></a> &nbsp;&nbsp;&nbsp;
 
 <hr>
-<form data-netlify="true">
+<form type="submit" value="Submit" method="post" role="form" data-netlify="true">
   <div class="wrapper">
     <div class="title">
       <h1>Say Hello!</h1>
@@ -38,7 +38,7 @@ menu:
       </div>
       <div class="msg">
         <textarea placeholder="Message"></textarea>
-        <div class="btn">Send</div>
+        <button style="width: 100%; height:" class="btn" type="submit"><div>Send</div></button>
       </div>
     </div>
   </div>
@@ -107,24 +107,40 @@ menu:
   }
   
   .btn {
-      background: #6e6767;
+      background: #727272;
       text-align: center;
-      padding: 5px;
+      padding: 10px;
       border-radius: 50px;
       color: #fff;
       cursor: pointer;
       text-transform: uppercase;
+      border: none;
+      color: white;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
       
   }
 
   .btn:hover{
     background: #4e4949;
-      text-align: center;
-      padding: 5px;
-      border-radius: 50px;
-      color: #fff;
-      cursor: pointer;
-      text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+    text-transform: uppercase;
+    border: none;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
   }
 
   @media screen and (max-width: 600px){
