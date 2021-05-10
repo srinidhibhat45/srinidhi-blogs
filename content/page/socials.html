@@ -31,13 +31,18 @@ menu:
     </div>
     <div class="contact-form">
       <div class="input-fields">
-        <input type="text" class="input" placeholder="Name">
-        <input type="text" class="input" placeholder="Email Address">
-        <input type="text" class="input" placeholder="Phone">
-        <input type="text" class="input" placeholder="Subject">
+        <input type="text" name="name" class="input" id="name" placeholder="Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars"/>
+        <div class="validate"></div>
+        <input type="email" class="input" name="email" id="email" placeholder="Email Address" data-rule="email" data-msg="Please enter a valid email"/>
+        <div class="validate"></div>
+        <input type="text" class="input" name="phone" id="phone" placeholder="Phone" data-rule="phone" data-msg="Not a phone number"/>
+        <div class="validate"></div>
+        <input type="text" class="input" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+        <div class="validate"></div>
       </div>
       <div class="msg">
-        <textarea placeholder="Message"></textarea>
+        <textarea class="form-control" name="message" rows="8" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+        <div class="validate"></div>
         <button style="width: 100%; height:" class="btn" type="submit"><div>Send</div></button>
       </div>
     </div>
@@ -45,6 +50,7 @@ menu:
 </form>
 
 <style>
+
    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
   *{
