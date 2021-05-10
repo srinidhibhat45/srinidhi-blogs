@@ -26,17 +26,17 @@ lastmod: false
     </div>
     <div class="contact-form">
       <div class="input-fields">
-        <input type="text" name="name" class="input" id="name" placeholder="Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars"/>
+        <input type="text" name="name" class="input" id="name" placeholder="Name" data-rule="minlen:4" autocomplete="off" data-msg="Please enter at least 4 chars"/>
         <div class="validate"></div>
-        <input type="email" class="input" name="email" id="email" placeholder="Email Address" data-rule="email" data-msg="Please enter a valid email"/>
+        <input type="email" class="input" name="email" id="email" placeholder="Email Address" data-rule="email" autocomplete="off" data-msg="Please enter a valid email"/>
         <div class="validate"></div>
-        <input type="text" class="input" name="phone" id="phone" placeholder="Phone" data-rule="phone" data-msg="Not a phone number"/>
+        <input type="text" class="input" name="phone" id="phone" placeholder="Phone" data-rule="phone" autocomplete="off" data-msg="Not a phone number"/>
         <div class="validate"></div>
-        <input type="text" class="input" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+        <input type="text" class="input" name="subject" id="subject" placeholder="Subject" autocomplete="off" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
         <div class="validate"></div>
       </div>
       <div class="msg">
-        <textarea class="form-control" name="message" rows="8" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+        <textarea class="form-control" name="message" rows="8" data-rule="required"  data-msg="Please write something for us" placeholder="Message"></textarea>
         <div class="validate"></div>
         <button style="width: 100%; height:" class="btn" type="submit"><div>Send</div></button>
       </div>
