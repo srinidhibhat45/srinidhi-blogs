@@ -49,7 +49,7 @@ params:
 
     comments:
         enabled: true
-        provider: remark42
+        provider: disqus
         
 
         utterances:
