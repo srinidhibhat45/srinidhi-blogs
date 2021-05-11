@@ -1,5 +1,5 @@
 ---
-title: "Shri’s Podcast: Ep #2"
+title: "From being a nervous wreck on stage to being a confident orator and theatre enthusiast: My journey (Shri’s Podcast: Ep #2)"
 description: "Hello and welcome to the second episode of Shri’s Podcast where I’ll be talking about my journey from not being able to utter even a single word on stage to being a confident orator taking part in debates, elocution competitions and dramas. Happy reading :)"
 date: "2020-12-17"
 slug: "podcast-2"

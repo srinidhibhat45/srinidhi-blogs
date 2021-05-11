@@ -1,5 +1,5 @@
 ---
-title: "Shri’s Podcast: Ep #3"
+title: "Book review: SHANTARAM by Gregory David Roberts (Shri’s Podcast: Ep #3)"
 description: "This is the third episode of Shri's Podcast where I review my favorite book Shantaram by Gregory David Roberts.."
 date: "2020-12-24"
 slug: "podcast-3"

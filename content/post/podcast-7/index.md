@@ -1,5 +1,5 @@
 ---
-title: "Shri’s Podcast: Ep #7"
+title: "Diwali in Goa: The Narkasur Dahan (Shri’s Podcast: Ep #7)"
 description: "Welcome to the 7th episode of Shri's Podcast! today, I talk about a very unique and unusual festival celebrated in Goa, The Narkasur Dahan. Read on to find out more about this festival. Happy reading :)"
 date: "2021-01-04"
 slug: "podcast-7"

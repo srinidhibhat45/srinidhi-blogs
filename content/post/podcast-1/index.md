@@ -1,5 +1,5 @@
 ---
-title: "Shri’s Podcast: Ep #1"
+title: "My tryst with World Konkani Center (Shri’s Podcast: Ep #1)"
 description: "This is a brand new series that I've started, inspired from the very famous konkani jhaanki style called 'Lokabhiraam' which is more popular as Podcast. I plan to write on random topics every week and present my personal opinions on them.."
 date: "2020-12-14"
 slug: "podcast-1"

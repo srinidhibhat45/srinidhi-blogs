@@ -1,5 +1,5 @@
 ---
-title: "Shri’s Podcast: Ep #6"
+title: "How to Start Working on Developing Public Communication Skills (Shri’s Podcast: Ep #6)"
 description: "This is the 6th episode of Shri's Podcast where I speak about Developing Public Communication Skills. Happy Reading :)"
 date: "2020-12-29"
 slug: "podcast-6"

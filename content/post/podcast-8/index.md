@@ -1,5 +1,5 @@
 ---
-title: "Shri’s Podcast: Ep #8"
+title: "My Realizations from Quarter 1 of the Sushiksha Sophists’-year (Shri’s Podcast: Ep #8)"
 description: "In this episode of Shri's Podcast, I talk about my realizations of the recently concluded 1st Quarter of the Sushiksha year. Happy reading :)"
 date: "2021-01-26"
 slug: "podcast-8"
