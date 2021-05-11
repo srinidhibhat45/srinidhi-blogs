@@ -49,7 +49,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: remark42
         
 
         utterances:
@@ -58,9 +58,9 @@ params:
             label:
 
         remark42:
-            host:
-            site:
-            locale:
+            host: https://srinidhi-blogs.netlify.app/
+            site: "Srinidhi's Blog"
+            locale: en
 
         vssue:
             platform:
