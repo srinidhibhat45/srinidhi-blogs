@@ -1,6 +1,5 @@
 baseurl: https://srinidhi-blogs.netlify.app
 languageCode: en-us
-theme: hugo-theme-stack
 paginate: 5
 title: Srinidhi Bhat - Blogs
 
