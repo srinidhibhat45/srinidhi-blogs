@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: srinidhi-blogs.netlify.app
-Token: ecf839a7ec3e756c94ee2e82fe35f2115924c0c27f9f5b3316697543d006ee86
