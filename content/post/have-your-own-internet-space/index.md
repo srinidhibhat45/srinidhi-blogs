@@ -19,11 +19,9 @@ Ever wanted to have an internet presence of your own and have your own website? 
 
 Now how do you do this? There are a lot of ways of doing this! The first and easiest is of course to use top-level Site Builders like:
 
-<ul>
-<li>Google Sites (sites.google.com)</li>
-<li>Wix.com (www.wix.com)</li>
-<li>Squarespace (www.squarespace.com)</li>
-</ul>
+- Google Sites (sites.google.com)
+- Wix.com (www.wix.com)
+- Squarespace (www.squarespace.com)
 
 & many more...
 
