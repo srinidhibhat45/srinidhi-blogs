@@ -19,6 +19,8 @@ permalinks:
     post: /p/:slug/
     page: /:slug/
 
+timeZone: IN
+
 params:
     mainSections:
         - post
@@ -59,7 +61,7 @@ params:
         remark42:
             host: https://srinidhi-blogs.netlify.app/
             site: "Srinidhi's Blog"
-            locale: en
+            locale: in
 
         vssue:
             platform:
