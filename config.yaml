@@ -1,5 +1,5 @@
 baseurl: https://srinidhi-blogs.netlify.app
-languageCode: en-us
+languageCode: en-in
 paginate: 5
 title: Srinidhi Bhat - Blogs
 
@@ -15,11 +15,10 @@ googleAnalytics: G-4CLC635B4R
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl
 DefaultContentLanguage: en
 
+
 permalinks:
     post: /p/:slug/
     page: /:slug/
-
-timeZone: IN
 
 params:
     mainSections:
