@@ -45,7 +45,7 @@ params:
         math: false
         license:
             enabled: true
-            default: 2021 Srinidhi Bhat
+            default: 2022 Srinidhi Bhat
 
     comments:
         enabled: true
