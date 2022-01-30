@@ -1,0 +1,31 @@
+---
+title: "All About F1 – #5"
+description: "Sunday is Race Day, the final and the most anticipated day of the whole week. Tracks are usually sold out. Fans, media, and ardent fans from all over the world travel from around the world to witness and follow these super exciting races. Race tickets and flight tickets are booked months in advance and the countries and tracks start preparing themselves for the races. When the Dutch Grand Prix was held this year at the Zandvoort Circuit, the ever-enthusiastic Dutch changed their Speed limit signs from 30 to 33 in support of Max Verstappen from the Red Bull Honda F1 Racing Team! But what happens during an F1 Race and how is it conducted? What are some of the rules the drivers have to follow during the race? Read on to find out!"
+date: "2022-01-30"
+slug: "f1-5"
+image: "f1.png"
+categories:
+    - sports
+tags:
+    - non-fiction
+    - story
+    - sports
+    - f1
+    - knowledge
+---
+
+### The R-Day
+
+Sunday is Race Day, the final and the most anticipated day of the whole week. Tracks are usually sold out. Fans, media, and ardent fans from all over the world travel from around the world to witness and follow these super exciting races. Race tickets and flight tickets are booked months in advance and the countries and tracks start preparing themselves for the races. When the Dutch Grand Prix was held this year at the Zandvoort Circuit, the ever-enthusiastic Dutch changed their Speed limit signs from 30 to 33 in support of Max Verstappen from the Red Bull Honda F1 Racing Team! But what happens during an F1 Race and how is it conducted? What are some of the rules the drivers have to follow during the race? Read on to find out!
+
+#### The Race Sunday
+
+After Saturday’s Qualification, the Grid position is set. But some of the time, these positions aren’t the final ones. A Driver could be given a grid penalty for misconduct or having changed their car parts more than the given limit (you can do that of course; you can’t leave a broken car broken) that is specified and he could be pushed down the grid and the others will bunch up to take his position. Once the grid positions have been allocated, the drivers have to line up on the grid while the team finishes up the car and adds some finishing touches.
+
+F1 is a super-competitive and super complex sport that is the pinnacle of engineering and automobile technology. An example of this is that the F1 engines or power units as they are called are the most efficient engines on the planets. A 2.4 liter V8 F1 Engine is a hybrid engine that reaches a Thermal Efficiency of over 50%! For reference, a normal car engine hardly crosses 30% this results in better power, better fuel consumption, environment friendly, and lesser noise pollution (although the engines before the hybrid era sound way better). Considering that each of these engines costs around $10 Million (around 75 crores) it costs the team a ton when an engine blows out or is crashed into. Aerodynamics is given so much importance that the mechanics tape every outing or gap in the chassis closed so that the car is faster. This is a game of milliseconds and every small detail is crucial!
+
+After the final checks have been completed, the mechanics have to off the tracks. Cars have to be off their jacks and the blankets of the tyres have to be off. After this, the drivers go around the track in minimal speed for a formation lap. This is a lap where the drivers warm up their tyres by waving the tracks and producing intentional wheel spin. No one is allowed to overtake anyone during this lap and the drivers have to line up again on the grid with the emergency car going right behind them. This is done because a majority of the racing incidents happen on the first lap, so the emergency car can reach the spot if the said incident occurs. Once all cars are lined up, a marshal will cross the track behind all the cars waving a green flag which is a traditional practice that used to happen in the earlier time of F1, after this the 5 red lights above the drivers go on one by one and then go off. With Crofty’s famous words, “It’s lights out and away we go”, the race starts with all drivers rushing towards the first corner to get the track position right away and further into the other corners whilst overtaking at crazy speeds taking as much as 5Gs or 5 times their body weight on a corner! An F1 driver can lose as much as 3 kilograms during a 2-hour race session! That must tell you that this isn’t any person’s work and requires a lot of training and skill to even handle a car like that.
+
+An F1 race is usually 305 Kilometres (around 190 miles) based on the track lengths, this is rounded to the nearest lap. The longest circuit on the F1 Calendar, the recently added Jedda Corniche Street circuit at Saudi Arabia which is around 6.175 kms long has 50 laps, whilst the shortest circuit, the famous Street Circuit of Monte Carlo or the Monaco circuit which is just 3.340 kms has around 78 laps! The race must get over by 2 hours which is usually the case.  If The Race Director has stopped the race due to the weather or accidents, it can be extended up to 3 hours. After battling all the corners, the driver that crosses the line first is crowned the winner. This could change if the winner has a time penalty where the winner could be decided by the times they finish. An example of this could be the 2019 Canadian Grand Prix where the race leader, Sebastian Vettel from Ferrari was 2nd in the Race even though he finished first because he went out of, the track and was given a 5 second time penalty handing Lewis Hamilton the victory. Seb even controversially changed the position indicators in parc ferme to express his disappointment. One more thing in F1: Everything isn’t always fair. This is a tough sport in terms of everything. Financially, Physically, Mentally, and Emotionally. Fair to say that F1 isn’t everyone’s cup of tea and hence it is called the Everest of Motorsport.
+
+ Thank you for being a part of this series with me and staying throughout! Stay tuned as the new F1 season with brand new regulations, new cars, and new tracks and drivers starts from 20th March 2022, 8:30 pm IST!
