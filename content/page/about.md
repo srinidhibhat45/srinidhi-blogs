@@ -14,9 +14,9 @@ menu:
 ---
 # Srinidhi Bhat 
 
-![profile picture](https://imageshack.com/i/pnHaIsy6j)
+![profile picture](https://i.ibb.co/KVpJVJd/srinidhi.png)
 
- *Srinidhi hails from the town of Mangalore but has lived in Goa almost all his life. He is currently pursuing his second year of Bachelor of Engineering in Information Technology from Goa College of Engineering, Goa. He aspires to do something great for the society. He prefers writing under the pen-name: 'अvinash'*
+ *Srinidhi hails from the town of Mangalore but has lived in Goa almost all his life. He is currently pursuing his final year of Bachelor of Engineering in Information Technology from Goa College of Engineering, Goa. He aspires to do something great for the society. He prefers writing under the pen-name: 'अvinash'*
 
  #### Dalai Lama once said, "If you feel you're too small to make a difference, think about a mosquito in a room". I have always followed those words and believed that change can be caused by anyone and anything, much like the butterfly effect. I use this platform to begin change. I
 
